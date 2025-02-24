@@ -1,2 +1,13 @@
 # C-Language-Internship-Task-3
 Compiler Design Basics
+**COMPANY**: CODTECH IT SOLUTIONS PVT. LTD
+
+**NAME**: SOURABH ARYA
+
+**INTERN ID**: CT6WLEX
+
+**DOMAIN**: C LANGUAGE
+
+**BATCH DURATION**: January 10th,2025 to February 25th,2025
+
+**MENTOR NAME**:  NEELA SANTHOSH KUMAR
